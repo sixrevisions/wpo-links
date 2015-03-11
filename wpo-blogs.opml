@@ -1,0 +1,18 @@
+<opml version="2.0">
+<head>
+<title>Web performance optimization blogs</title>
+<docs>http://dev.opml.org/spec2.html</docs>
+</head>
+<body>  
+<outline type="rss" text="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/" title="High Scalability" />
+<outline type="rss" text="Web Performance Today" xmlUrl="http://www.webperformancetoday.com/feed/" htmlUrl="http://www.webperformancetoday.com/" title="Web Performance Today" />
+<outline type="rss" text="High Performance Web Sites" xmlUrl="http://www.stevesouders.com/blog/feed/" htmlUrl="http://www.stevesouders.com/blog/" title="High Performance Web Sites" />
+<outline type="rss" text="Dynatrace APM Blog" xmlUrl="http://apmblog.dynatrace.com/feed/" htmlUrl="http://apmblog.dynatrace.com/" title="Dynatrace APM Blog" />
+<outline type="rss" text="Ilya Grigorik's Blog" xmlUrl="http://feeds.igvita.com/igvita" htmlUrl="https://www.igvita.com/archives/" title="Ilya Grigorik's Blog" />
+<outline type="rss" text="Catchpoint's Blog" xmlUrl="http://blog.catchpoint.com/feed/" htmlUrl="http://blog.catchpoint.com/" title="Catchpoint's Blog" />
+<outline type="rss" text="Zoompf Web Performance Blog" xmlUrl="http://zoompf.com/blog/feed" htmlUrl="http://zoompf.com/blog" title="Zoompf Web Performance Blog" />
+<outline type="rss" text="HttpWatch Blog" xmlUrl="http://blog.httpwatch.com/feed/" htmlUrl="http://blog.httpwatch.com/" title="HttpWatch Blog" />
+<outline type="rss" text="Speed Tweak of the Week" xmlUrl="http://www.websiteoptimization.com/speed/tweak/index.xml" htmlUrl="http://www.websiteoptimization.com/speed/tweak/" title="Speed Tweak of the Week" />
+<outline type="rss" text="Planet Performance" xmlUrl="http://www.perfplanet.com/rss.xml" htmlUrl="http://www.perfplanet.com/" title="Planet Performance" />
+</body>
+</opml>
