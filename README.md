@@ -16,15 +16,19 @@ _This is a work in progress._
 - [Planet Performance](http://www.perfplanet.com/)
 
 ## Sites
-- Perf.Rocks(http://perf.rocks/)
+- [Perf.Rocks](http://perf.rocks/)
 
 ## Newsletters
 - [Web Performance News](http://www.webperformancenews.com/)
+- [O'Reilly Web Ops and Performance Newsletter](http://www.oreilly.com/webops-perf/newsletter.html)
 - [Optimization Week](http://www.optimizationweek.com/)
 
 ## Tools
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - analyzes a web page for performance-related issues and suggests fixes for them.
-- [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - measures and displays tons of performance metrics about a web page. 
+- [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - measures and displays tons of performance metrics about a web page.
+- [GTmetrix](http://gtmetrix.com/)
+- [StyleStats](http://www.stylestats.org/) - displays CSS statistics that can be used to find places where CSS style rules, selectors and properties can be optimized.
 
 ## Articles, Tutorials and Guides
-_Coming soon_
+- [Optimizing Performance — Web Fundamentals](https://developers.google.com/web/fundamentals/performance/index?hl=en) - a series of guides and tutorials on Google Developers covering front-end performance considerations.
+- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - guidelines for improving your PageSpeed Insight scores.
